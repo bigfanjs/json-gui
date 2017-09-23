@@ -1,0 +1,16 @@
+.form-label, .form-input {
+  display: block;
+}
+
+.form-input {
+  border: 1px solid black;
+}
+
+.form-input.invalid {
+  border-color: red;
+}
+
+.hint-text {
+  display: block;
+  color: red;
+}
